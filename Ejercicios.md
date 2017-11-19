@@ -2,7 +2,7 @@
 
 ## Primer Ejercicio "Hola Mundo"
 
-####Code
+#### Code
 `#include <stdio.h>` </br>
 `#include <stdlib.h>` </br >
 
@@ -12,16 +12,18 @@
 `	return(0)` </br >
 
 `}` <br />
-####Output
+#### Output
 `hola mundo`
 
 
-##Segundo Ejercicio "argc"
+## Segundo Ejercicio "argc"
 
-El argc es el número de elementos que recibe nuestro programa cuando es llamado desde la línea de comandos (y desde cualquier otro lado)
+*argc* es el número de elementos que recibe nuestro programa cuando es llamado desde la línea de comandos (y desde cualquier otro lado)
 El primer argumento es el nombre del ejecutable, por la cual, si no le pasamos argumentos al programa, imprimirá 1
 
-####Code
+*argv* Contiene los valores de los argumentos ingresados por línea de comandos (y desde cualquier otro lado)
+
+#### Code
 `#include <stdio.h>` <br />
 `#include <stdlib.h>` <br />
 
@@ -32,5 +34,5 @@ El primer argumento es el nombre del ejecutable, por la cual, si no le pasamos a
 `return (0);` <br />
 `}` <br />
 
-###Output
-1
+### Output
+`1`
