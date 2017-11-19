@@ -1,4 +1,4 @@
-# Ejercicios  :sunglasses:
+# Ejercicios   👽
 
 ## Primer Ejercicio "Hola Mundo"
 
@@ -34,5 +34,5 @@ El primer argumento es el nombre del ejecutable, por la cual, si no le pasamos a
 `return (0);` <br />
 `}` <br />
 
-### Output
+### Output 
 `1`
