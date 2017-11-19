@@ -1,4 +1,4 @@
-# Ejercicios   👽
+# Ejercicios :octocat:
 
 ## Primer Ejercicio "Hola Mundo"
 
