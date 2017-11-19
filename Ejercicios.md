@@ -7,7 +7,7 @@
 
 `int main(int argc, char** argv) {` </br >
 
-	`printf("hola mundo")` </br >
-	`return(0)` </br >
+`	printf("hola mundo")` </br >
+`	return(0)` </br >
 
 `}` <br />
