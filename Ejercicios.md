@@ -1,4 +1,4 @@
-# Ejercicios
+# Ejercicios  :sunglasses:
 
 ## Primer Ejercicio "Hola Mundo"
 
@@ -18,10 +18,10 @@
 
 ## Segundo Ejercicio "argc"
 
-*argc* es el número de elementos que recibe nuestro programa cuando es llamado desde la línea de comandos (y desde cualquier otro lado)
+**argc** es el número de elementos que recibe nuestro programa cuando es llamado desde la línea de comandos (y desde cualquier otro lado)
 El primer argumento es el nombre del ejecutable, por la cual, si no le pasamos argumentos al programa, imprimirá 1
 
-*argv* Contiene los valores de los argumentos ingresados por línea de comandos (y desde cualquier otro lado)
+**argv** Contiene los valores de los argumentos ingresados por línea de comandos (y desde cualquier otro lado)
 
 #### Code
 `#include <stdio.h>` <br />
